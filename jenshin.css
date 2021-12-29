@@ -1,0 +1,36 @@
+.h1{
+    font-size: 24px
+    color: #F9FAF8
+}
+.h2{
+    color:#F9FAF8
+    font-weight: bold
+    font-size: 48px
+}
+.sec-text .HL{
+    font-size: 18px
+    color: #E5E7EB
+}
+.h3{
+    font-size: 36px
+    font-weight: extra-bold
+    color: #1F2937
+}
+.main-img{
+    height: auto
+    width: 1000px
+}
+.img{
+    height: auto
+    width: 400px
+}
+.button{
+    background-color: #3882F6
+}
+.quote{
+    font-size: 36px
+    font-weight: italic
+    color: #1F2937
+}
+
+
