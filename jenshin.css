@@ -51,3 +51,25 @@ img{
     background-color: #3882F6;
     color: #F9FAF8;
 }
+.flex-container{
+    display: flexbox;
+}
+.box0{
+    background-color: #1F2937;
+}
+.box1{
+    flex-direction: column;
+    justify-content: center;
+}
+.box2{
+
+}
+.box3{
+
+}
+.box4{
+    background-color: #E5E7EB;
+}
+.box5{
+    background-color: #3882F6; 
+}
